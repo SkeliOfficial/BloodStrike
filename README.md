@@ -1,9 +1,9 @@
 <img width="720" height="500" alt="20251220_211841" src="https://github.com/user-attachments/assets/56616c37-8535-4ddc-980c-862ca5846823" />
 
-# Introduction
+# 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
 Free Blood Strike Injector. Support all android devices using Shizuku. No need root.
 
-# Features
+# 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀
 - Overclock Cpu
 - Unlock Potato Graphics
 - Force Extreme Fps
@@ -17,5 +17,5 @@ Free Blood Strike Injector. Support all android devices using Shizuku. No need r
 - No Root
 - No Detect
 
-# Socials
+# 𝗦𝗼𝗰𝗶𝗮𝗹𝘀
 If you have questions or clarifications, you can message me on Telegram account @imskeli or you can also message me on my Discord account @imskeli.
