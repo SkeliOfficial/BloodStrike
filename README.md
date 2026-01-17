@@ -1,22 +1,22 @@
 <img width="720" height="500" alt="20251220_211841" src="https://github.com/user-attachments/assets/56616c37-8535-4ddc-980c-862ca5846823" />
 
 # 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
-𝘍𝘳𝘦𝘦 𝘉𝘭𝘰𝘰𝘥 𝘚𝘵𝘳𝘪𝘬𝘦 𝘐𝘯𝘫𝘦𝘤𝘵𝘰𝘳. 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 𝘢𝘭𝘭 𝘢𝘯𝘥𝘳𝘰𝘪𝘥 𝘥𝘦𝘷𝘪𝘤𝘦𝘴 𝘶𝘴𝘪𝘯𝘨 𝘚𝘩𝘪𝘻𝘶𝘬𝘶. 𝘕𝘰 𝘯𝘦𝘦𝘥 𝘳𝘰𝘰𝘵.
+Free Blood Strike Injector. Support Android 11 & Up. No Root
 
 
 # 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀
-- 𝘖𝘷𝘦𝘳𝘤𝘭𝘰𝘤𝘬 𝘊𝘱𝘶
-- 𝘜𝘯𝘭𝘰𝘤𝘬 𝘗𝘰𝘵𝘢𝘵𝘰 𝘎𝘳𝘢𝘱𝘩𝘪𝘤𝘴
-- 𝘍𝘰𝘳𝘤𝘦 𝘌𝘹𝘵𝘳𝘦𝘮𝘦 𝘍𝘱𝘴
-- 𝘚𝘮𝘰𝘰𝘵𝘩 𝘛𝘦𝘹𝘵𝘶𝘳𝘦
-- 𝘛𝘰𝘶𝘤𝘩 𝘙𝘦𝘴𝘱𝘰𝘯𝘴𝘪𝘷𝘦
-- 𝘍𝘢𝘴𝘵 𝘈𝘯𝘪𝘮𝘢𝘵𝘪𝘰𝘯
-- 𝘔𝘢𝘹𝘪𝘮𝘪𝘻𝘦 𝘎𝘳𝘢𝘱𝘩𝘪𝘤𝘴
-- 𝘖𝘱𝘵𝘪𝘮𝘪𝘻𝘦 𝘈𝘪𝘮 𝘈𝘴𝘴𝘪𝘴𝘵
-- 𝘜𝘯𝘭𝘰𝘤𝘬 16:9 1024𝘹567 𝘙𝘦𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯
-- 𝘖𝘷𝘦𝘳𝘤𝘭𝘰𝘤𝘬 𝘎𝘱𝘶
-- 𝘕𝘰 𝘙𝘰𝘰𝘵
-- 𝘕𝘰 𝘋𝘦𝘵𝘦𝘤𝘵
+- Overclock Cpu
+- Unlock Potato Graphics
+- Force Extreme Fps
+- Smooth Texture
+- Touch Responsive
+- Fast Animation
+- Maximize Graphics
+- Optimize Aim Assist
+- Unlock 16:9 1024𝘹567 Resolution
+- Overclock Gpu
+- No Root
+- No Detect
 
 # 𝗦𝗼𝗰𝗶𝗮𝗹𝘀
-𝘐𝘧 𝘺𝘰𝘶 𝘩𝘢𝘷𝘦 𝘲𝘶𝘦𝘴𝘵𝘪𝘰𝘯𝘴 𝘰𝘳 𝘤𝘭𝘢𝘳𝘪𝘧𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴, 𝘺𝘰𝘶 𝘤𝘢𝘯 𝘮𝘦𝘴𝘴𝘢𝘨𝘦 𝘮𝘦 𝘰𝘯 𝘛𝘦𝘭𝘦𝘨𝘳𝘢𝘮 𝘢𝘤𝘤𝘰𝘶𝘯𝘵 @𝘪𝘮𝘴𝘬𝘦𝘭𝘪 𝘰𝘳 𝘺𝘰𝘶 𝘤𝘢𝘯 𝘢𝘭𝘴𝘰 𝘮𝘦𝘴𝘴𝘢𝘨𝘦 𝘮𝘦 𝘰𝘯 𝘮𝘺 𝘋𝘪𝘴𝘤𝘰𝘳𝘥 𝘢𝘤𝘤𝘰𝘶𝘯𝘵 @𝘪𝘮𝘴𝘬𝘦𝘭𝘪.
+If u have questions or clarifications, u can message me on Telegram @imskeli
